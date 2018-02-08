@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Profile>
+  <PartnerName>HP</PartnerName>
+  <serverHost>localhost</serverHost>
+  <serverPort>2345</serverPort>
+  <userName>HP_server</userName>
+  <password>pass</password>
+  <command>*cmd*</command>
+  <localDir>*dir*</localDir>
+  <remoteDir>*dir*</remoteDir>
+  <localFile>*filename*</localFile>
+</Profile><?xml version="1.0"?>
+<Profile>
+  <PartnerName>UHG</PartnerName>
+  <serverHost>localhost</serverHost>
+  <serverPort>2345</serverPort>
+  <userName>uhg_server</userName>
+  <password>pass</password>
+  <command>*cmd*</command>
+  <localDir>*dir*</localDir>
+  <remoteDir>*dir*</remoteDir>
+  <localFile>*filename*</localFile>
+</Profile><?xml version="1.0"?>
+<Profile>
+  <PartnerName>Dell</PartnerName>
+  <serverHost>localhost</serverHost>
+  <serverPort>1234</serverPort>
+  <userName>dell_server</userName>
+  <password>pass</password>
+  <command>*cmd*</command>
+  <localDir>*dir*</localDir>
+  <remoteDir>*dir*</remoteDir>
+  <localFile>*filename*</localFile>
+</Profile>
